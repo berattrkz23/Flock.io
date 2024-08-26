@@ -28,7 +28,7 @@
 | Bileşenler | Minimum Gereksinimler | 
 | ------------ | ------------ |
 | CPU |	4|
-| RAM	| 8+ GB |
+| RAM	| 24+ GB |
 | Storage	| 200 GB SSD |
 
 ### Gereklilikler
